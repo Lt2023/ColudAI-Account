@@ -2,7 +2,7 @@ import axios from "axios"
 import { message } from 'ant-design-vue'
 
 const request = axios.create({
-    baseURL: 'https://email.weydev.top/email',
+    baseURL: 'https://email.coludai.cn/email',
     timeout: 10000
 })
 
