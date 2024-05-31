@@ -1,4 +1,4 @@
-![image](https://github.com/Lt2023/ColudAI-Account/assets/122614217/38d41dcd-e0ce-4bc2-8a31-758b496755b5)# ColudAI-Account
+# ColudAI-Account
 
 欢迎使用我们的开源账号系统！这是一款轻便简易、功能强大的网页应用，具备优美的UI设计和卓越的用户管理能力。无论是开发者还是用户，都能快速上手并高效使用。
 
